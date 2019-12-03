@@ -15,4 +15,4 @@ yarn install
 node server.js
 ```
 
-有相關使用問題，請使用 issues 回報告知，感謝
+有相關使用問題，請使用 [issues](https://github.com/jaffe1937/think_project/issues) 回報告知，感謝
